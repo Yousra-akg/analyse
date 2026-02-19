@@ -2,7 +2,7 @@
 
 ## 1. Création et organisation des QCM
 
--   La formatrice doit pouvoir créer des **QCM** facilement.
+-   La formateurs doivent pouvoir créer des **QCM** facilement.
 
 -   Chaque QCM doit contenir :
 
@@ -11,7 +11,7 @@
     -   Définition de la ou des **bonnes réponses**
     -   Choisir le **nombre de questions** dans le QCM
     -   Définir le **nombre de réponses** possibles par question
-    
+
 ------------------------------------------------------------------------
 
 ## 2. Fonctionnalités attendues
