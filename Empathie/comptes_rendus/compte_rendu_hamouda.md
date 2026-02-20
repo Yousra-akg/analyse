@@ -1,67 +1,42 @@
-# 📄 Compte rendu d’entretien Hamouda  
+# Compte Rendu -- Remarques de l’administrateur Hamouda  
 
-## 1️- Informations générales
+## 1. Formulaire d’inscription
 
-- **Date** : 31 Décembre 2025
-- **Personne interviewée** : Hamouda  
-- **Rôle** : Administrateur – SoliCode  
-- **Type d’entretien** : Entretien utilisateur (phase Empathie)
+-   Le niveau scolaire doit être **dynamique** selon le choix de l’utilisateur.
 
----
+-   La **photo de profil** doit être bien visible pour faciliter l’identification des candidats.
 
-## 2️- Objectif de l’entretien
+-   Le **numéro de téléphone** nécessite une validation :
+    -   Appliquer un contrôle de format
+    -   Définir une longueur minimale et maximale
+    -   Empêcher la saisie de valeurs incorrectes
 
-Comprendre les besoins administratifs concernant :
-- Le formulaire d’inscription
-- Le fonctionnement du QCM
-- Les améliorations nécessaires au système actuel
+------------------------------------------------------------------------
 
----
+## 2. Fonctionnement du QCM
 
-## 3️- Points discutés
+-   L’utilisateur ne doit pas pouvoir **revenir en arrière** après avoir répondu à une question.
 
-### 🔹 A. Formulaire d’inscription
+-   Les questions doivent être **classées par niveau**.
 
-**1. Niveau scolaire**
-- Le niveau scolaire doit être **dynamique**
-- Il doit s’adapter selon le choix de l’utilisateur
+-   Le système doit permettre d’indiquer le **niveau de difficulté** de chaque question.
 
-**2. Photo de profil**
-- La photo doit être **bien visible**
-- Importance de clarté pour l’administration
+------------------------------------------------------------------------
 
-**3. Numéro de téléphone**
-- Actuellement, aucun contrôle n’est appliqué
-- L’utilisateur peut saisir n’importe quelle valeur
-- Besoin d’ajouter des **conditions de validation** (format, longueur, etc.)
+## 3. Interface Administration
 
----
+-   Le design actuel de la partie administration n’est pas optimal.
 
-### 🔹 B. QCM
+-   L’interface doit être :
+    -   Simple et facile à utiliser
+    -   Claire et intuitive
+    -   Bien organisée
+    -   Avec une navigation logique
 
-**1. Navigation**
-- L’utilisateur ne doit pas pouvoir revenir en arrière
-- Empêcher la modification des réponses précédentes
+------------------------------------------------------------------------
 
-**2. Niveau des questions**
-- Les questions doivent être classées par niveau
-- Possibilité d’indiquer le niveau de difficulté
+## 4. Besoins prioritaires identifiés
 
----
-
-## 4️- Problèmes identifiés
-
-- Absence de validation du numéro de téléphone
-- Manque de contrôle dans la navigation du QCM
-- Manque de structuration par niveau des questions
-- Amélioration de la visibilité des informations importantes (photo)
-
----
-
-## 5️- Conclusion
-
-L’administration souhaite :
-- Plus de contrôle sur la qualité des données saisies
-- Un QCM structuré et sécurisé
-- Une interface claire facilitant la gestion des candidats
-
+-   Améliorer la qualité des données saisies dans le formulaire.
+-   Renforcer le contrôle et la structure du QCM.
+-   Optimiser l’ergonomie et la simplicité de l’interface administrateur.
