@@ -1,18 +1,16 @@
 ## Définition du problème
 
-Actuellement, le processus d’inscription des candidats à SoliCode présente plusieurs limites organisationnelles et administratives.
+Actuellement, les QCM sont réalisés via Google Forms, ce qui ne répond plus aux besoins pédagogiques des formateurs.
 
-Après la phase d’empathie menée avec l’administrateur (Mr Hamouda), plusieurs insuffisances ont été identifiées :
+Après la phase d’empathie menée avec les formateurs Youssef et Fatine, plusieurs limites ont été identifiées :
 
-- Absence de validation automatique des informations saisies (ex : numéro de téléphone, champs obligatoires).
-- Manque d’adaptation dynamique du formulaire selon le niveau scolaire du candidat.
-- Absence de structuration claire et centralisée des données des candidats.
-- Visibilité insuffisante des informations importantes (ex : photo de profil).
-- Difficulté de suivi du statut des candidatures (accepté, refusé, en attente).
-- Interface administrative peu intuitive et organisation des informations non optimisée.
+- Absence de liaison structurée entre les QCM, les sessions, les modules et les objectifs pédagogiques.
+- Difficulté à attribuer un QCM spécifique à chaque session et à chaque objectif.
+- Manque de centralisation : les professeurs ne disposent pas d’un espace unique pour gérer leurs QCM.
+- Gestion limitée des questions (ajout, modification, suppression) et manque de flexibilité dans le nombre de choix et de réponses.
+- Absence d’un calcul automatique détaillé des scores par objectif.
+- Difficulté de suivi clair des résultats des étudiants.
 
-## Problématique centrale
+Ainsi, le problème principal peut être formulé comme suit :
 
-### Ainsi, le problème principal peut être formulé comme suit :
-
-Comment concevoir un système d’inscription structuré et automatisé permettant de collecter, valider et gérer les candidatures de manière fiable, centralisée et efficace, tout en facilitant le travail administratif ?
+Comment concevoir une application de gestion des QCM permettant aux formateurs de créer, organiser et gérer des QCM par session et par objectif, tout en assurant un calcul automatique des résultats et un suivi pédagogique structuré ? 
