@@ -1,16 +1,16 @@
 # Compte Rendu de Formateur Youssef
 
-## 1. Organisation des QSM
+## 1. Organisation des QCM
 
--   Chaque session doit avoir son propre **QSM**.
--   Il ne faut pas créer un QSM global pour tout le module.
--   Chaque objectif doit également avoir son propre **QSM**.
+-   Chaque session doit avoir son propre **QCM**.
+-   Il ne faut pas créer un QCM global pour tout le module.
+-   Chaque objectif doit également avoir son propre **QCM**.
 
 ------------------------------------------------------------------------
 
 ## 2. Liaison avec les professeurs
 
--   Le QSM doit être lié au professeur.
+-   Le QCM doit être lié au professeur.
 
 -   Les professeurs doivent avoir accès aux :
 
